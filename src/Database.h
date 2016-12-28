@@ -27,8 +27,6 @@
 
 namespace DBoW3 {
 
-// For query functions
-static int MIN_COMMON_WORDS = 5;
 
  ///   Database
 class DBOW_API Database
